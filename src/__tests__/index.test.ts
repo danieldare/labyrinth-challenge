@@ -1,0 +1,1 @@
+describe("Labyrinth shortest path", () => {});
